@@ -9,7 +9,7 @@ provided in Processing v3:
  - [ControlP5 - GUI for Processing by Andreas Schlegel](http://www.sojamo.de/libraries/controlP5)
  
 download only via website:
- - [Joda Time](https://www.joda.org/joda-time)#
+ - [Joda Time](https://www.joda.org/joda-time)
 
 other:
  - Vielen Dank an das SenseBox Team für die tolle Idee der SenseBox: https://sensebox.de
