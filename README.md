@@ -16,4 +16,4 @@ other:
  - [API Documentation](https://docs.opensensemap.org/#api-Boxes-getBox)
 
 ### Info
-This Project is written in Java IDE Processing. The Code is shit. It will give you a better overview of your Sensebox data. Feel free to use it for personal use and improve the code... (it needs improvement)
+This Project is written in Java IDE Processing. The Code has really bad quality, because it was one of my first ever programming projects. It will give you a better overview of your Sensebox data. Feel free to use it for personal use and improve the code...
